@@ -1,3 +1,3 @@
-# TechCoder-Website
+# TechCoder-Template
 
-TechCoder is a technical blog website
+TechCoder is a technical blog Template
